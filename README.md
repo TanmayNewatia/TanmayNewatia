@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![github-profile](https://user-images.githubusercontent.com/98212774/209447266-47e31a12-b593-400c-8a43-f6fc8b55a056.jpg)
 <!--
 **TanmayNewatia/TanmayNewatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
