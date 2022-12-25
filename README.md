@@ -1,4 +1,5 @@
-![github-profile](https://user-images.githubusercontent.com/98212774/209447266-47e31a12-b593-400c-8a43-f6fc8b55a056.jpg)
+![profilegit](https://user-images.githubusercontent.com/98212774/209467753-57b8e4c9-3879-4a41-bca5-9dedfb1fcfdb.png)
+
 <!--
 **TanmayNewatia/TanmayNewatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
